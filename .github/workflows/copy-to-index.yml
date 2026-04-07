@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'saas-apocalypse-framework.html'
+  workflow_dispatch:
 
 jobs:
   copy:
